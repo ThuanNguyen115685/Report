@@ -1,4 +1,4 @@
-Summary: Ctrl+1
+Ctrl+1 Summary: Ctrl+1
 
 Reflected cross-site scripting (or XSS) arises when an application receives data in an HTTP request and includes that data within the immediate response in an unsafe way.
 
