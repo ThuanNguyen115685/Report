@@ -14,11 +14,12 @@ Reflected XSS attacks, also known as non-persistent attacks, occur when a malici
 
 ![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/a7e34caf-3c9d-455a-9d29-2b05cd21d47e)
 
-2.  On the url, enter payload after url: `cuzh4"><script>alert('VIETNAM')</script>rvhmf`
+2.  On the url, enter payload after url: `cuzh4"><script>alert('XSS')</script>rvhmf`
 
-    Payload: `http://localhost/php-inventory-management-system/index.php/cuzh4"><script>alert('VIETNAM')</script>rvhmf`
+    Payload: `http://localhost/php-inventory-management-system/index.php/cuzh4"><script>alert('XSS')</script>rvhmf`
     
-![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/cf81a84c-5b2f-482a-baf2-2fac74c25c3b)
+![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/be2716dd-28f0-47a6-a766-3c5f28ef82e4)
+
 
 # Impact:
 
