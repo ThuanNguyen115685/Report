@@ -6,6 +6,8 @@ Description:
 
 Reflected XSS attacks, also known as non-persistent attacks, occur when a malicious script is reflected off of a web application to the victim's browser.
 
+POC
+
 Steps To Reproduce:
 
 1.  Go to : `http://localhost/php-inventory-management-system/index.php`
