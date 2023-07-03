@@ -22,23 +22,27 @@ Steps To Reproduce:
 
 
 
-![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/2bb093aa-ecb7-43b3-b017-17a8cd1a9a9c)
+![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/bc8d315c-b773-42f1-925f-75d38c8c36dd)
+
 
 
 3. Save request with file name extension is `.txt`
 
 
-![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/ad32ccb0-21aa-47ae-9e5b-3347664c4ecc)
+![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/eb77f770-7402-41e1-aa4d-b3b116f86a96)
+
+
 
 
  4. Use `sqlmap` with payload : 
-  `python3 sqlmap.py -r newsbuzz.txt --risk 2 --dbms=MySQL --dbs --batch`
+  `python3 sqlmap.py -r poc.txt --risk 2 --dbms=MySQL --dbs --batch`
 
 
-![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/60ea8dfc-638f-4edb-91c5-6139ede6ae9c)
+![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/b4390493-7a68-4113-8e4f-3dd526ba1370)
 
 
-![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/1a899945-0f59-45cb-825d-49f5fb7b74bf)
+![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/5032b055-0e21-48ad-9d04-90b295c627c6)
+
 
 
 # Impact:
