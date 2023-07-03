@@ -22,27 +22,22 @@ Steps To Reproduce:
 
 
 
-![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/bc8d315c-b773-42f1-925f-75d38c8c36dd)
-
+![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/eb06a3d8-7b73-4bfd-8fc1-02a28517221a)
 
 
 3. Save request with file name extension is `.txt`
 
 
-![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/eb77f770-7402-41e1-aa4d-b3b116f86a96)
-
-
+![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/fe8c365a-fc98-4b94-8804-d17523b431d8)
 
 
  4. Use `sqlmap` with payload : 
-  `python3 sqlmap.py -r poc.txt --risk 2 --dbms=MySQL --dbs --batch`
+  `python3 sqlmap.py -r test.txt --risk 2 --dbms=MySQL --dbs --batch`
+
+![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/d5cabc60-0e05-45c9-9704-0068a2a1a53c)
 
 
-![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/b4390493-7a68-4113-8e4f-3dd526ba1370)
-
-
-![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/5032b055-0e21-48ad-9d04-90b295c627c6)
-
+![image](https://github.com/ThuanNguyen115685/Report/assets/101619051/99e0204d-9eb9-4514-8086-6cdc8354288a)
 
 
 # Impact:
